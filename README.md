@@ -16,29 +16,10 @@ How COOL IS THAT !!
 
 
 
-## Authors
-
-- [Me](https://github.com/anouarharrou)
-
 
 ![Logo](https://github.com/anouarharrou/gravity_ai_upload/blob/main/TD-IDF%20Python.png)
 
 
-
-Hi 👋 My name is Harrou Anouar
-==============================
-
-Network Engineer | Web Developer | DevOps and Graphic Designer
---------------------------------------------------------------
-
-👀 I’m interested in Different Web Technology (PHP, Python, Java, C++, etc..),a Beginner DevOps and also i'm Network Student Enginner 
-🌱 I’m currently learning new Things ( Data Mining using Python, CCNA , Develop some Skills in CyberSecurity ..)i'm trying to keep myself busy 
-💞️ I’m looking to collaborate with others, share Knowledge and work together to make this World a Better Place
-
-* 🌍  I'm based in Oujda, Morocco
-* 🖥️  See my portfolio at [Github Pages](http://anouarharrou.github.io/)
-* 🧠  I'm learning Python, ML..
-* 🤝  I'm open to collaborating on intersesting Projects
 
 ## Run Locally
 
@@ -79,3 +60,22 @@ $> docker run -d -p 7000:80 gx-images:t-6a8423f6cddb4547832c791e46fd1246
 
 ```
 
+## Authors
+
+- [Me](https://github.com/anouarharrou)
+
+
+Hi 👋 My name is Harrou Anouar
+==============================
+
+Network Engineer | Web Developer | DevOps and Graphic Designer
+--------------------------------------------------------------
+
+👀 I’m interested in Different Web Technology (PHP, Python, Java, C++, etc..),a Beginner DevOps and also i'm Network Student Enginner 
+🌱 I’m currently learning new Things ( Data Mining using Python, CCNA , Develop some Skills in CyberSecurity ..)i'm trying to keep myself busy 
+💞️ I’m looking to collaborate with others, share Knowledge and work together to make this World a Better Place
+
+* 🌍  I'm based in Oujda, Morocco
+* 🖥️  See my portfolio at [Github Pages](http://anouarharrou.github.io/)
+* 🧠  I'm learning Python, ML..
+* 🤝  I'm open to collaborating on intersesting Projects
